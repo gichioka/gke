@@ -1,3 +1,2 @@
-TerraformでGKEを構築。
-
+TerraformでGKEを構築
 gcloud auth application-default loginが必要
